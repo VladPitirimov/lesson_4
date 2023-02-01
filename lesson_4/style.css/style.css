@@ -1,0 +1,92 @@
+
+@import url(https://fonts.googleapis.com/css?family=Solitreo&display=swap:regular);
+
+.block{
+    font-family: "Solitreo";
+    color: rgb(153, 49, 49);
+    text-shadow: 2px 2px 2px ;
+    
+}  
+
+
+.title{
+    font-family: "Aboreto",sans-serif;
+    text-align: center;
+    color: rgb(51, 151, 51);
+    
+    
+}
+
+
+@font-face{
+    font-family: "Qatar2022-Medium";
+    src: url("../fonts/Qatar2022-Medium.woff") format("woff") ;
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face{
+    font-family: "Qatar2022Arabic";
+    src: url("../fonts/Qatar2022Arabic-Bold.woff") format("woff");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap"
+
+   
+
+}
+
+.text{
+    font-family: "Qatar2022Arabic";
+    font-size: 17px;
+    color: rgb(36, 77, 28);
+    text-decoration: underline;
+
+}
+
+.text2{
+    font-family: "Qatar2022-Medium";
+    color: rgb(58, 165, 165);
+    text-decoration: overline;
+    letter-spacing: 10;
+
+    }
+
+
+.text3{
+font-family: "Solitreo";
+line-height: 2.4;
+text-decoration: line-through;
+color: rgb(196, 34, 34);
+}
+
+.text4{
+    font-family: "Qatar2022Arabic";
+    color: rgb(43, 59, 15);
+    text-align: justify;
+    text-transform: uppercase;
+    text-indent: 10%;
+
+}
+
+
+h1{
+    font-family: "Aboreto";
+    color: rgb(50, 155, 132);
+    text-shadow: 2px 2px 2px;
+    text-transform: lowercase;
+
+}
+
+
+.ul{
+    color: rgb(14, 209, 56);
+}
+
+    
+
+
+
+
+
